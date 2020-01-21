@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/p.dir/p.cpp.o  -o p -lrt 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/c2.dir/c2.cpp.o  -o c2 -lrt 

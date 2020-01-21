@@ -1,0 +1,4 @@
+/home/aliqasemi/CLionProjects/massage_passing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/aliqasemi/CLionProjects/massage_passing/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/aliqasemi/CLionProjects/massage_passing/cmake-build-debug/CMakeFiles/p.dir
+/home/aliqasemi/CLionProjects/massage_passing/cmake-build-debug/CMakeFiles/massage_passing.dir
